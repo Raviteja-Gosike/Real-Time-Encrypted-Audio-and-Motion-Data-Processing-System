@@ -88,6 +88,12 @@ The project is implemented using Simulink models:
    - The receiver decrypts and plays the sound while showing motion activity.
 
 ---
+## Demo Video
+
+A complete demonstration of the project is available on YouTube:  
+[https://youtu.be/MugjQrtjZ-c](https://youtu.be/MugjQrtjZ-c)
+
+---
 
 ## Results
 
